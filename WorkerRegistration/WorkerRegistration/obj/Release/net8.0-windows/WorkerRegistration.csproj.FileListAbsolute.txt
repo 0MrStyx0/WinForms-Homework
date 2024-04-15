@@ -1,0 +1,17 @@
+C:\Users\PK\WinForms\WinForms-Homework\WorkerRegistration\WorkerRegistration\bin\Release\net8.0-windows\WorkerRegistration.exe
+C:\Users\PK\WinForms\WinForms-Homework\WorkerRegistration\WorkerRegistration\bin\Release\net8.0-windows\WorkerRegistration.deps.json
+C:\Users\PK\WinForms\WinForms-Homework\WorkerRegistration\WorkerRegistration\bin\Release\net8.0-windows\WorkerRegistration.runtimeconfig.json
+C:\Users\PK\WinForms\WinForms-Homework\WorkerRegistration\WorkerRegistration\bin\Release\net8.0-windows\WorkerRegistration.dll
+C:\Users\PK\WinForms\WinForms-Homework\WorkerRegistration\WorkerRegistration\bin\Release\net8.0-windows\WorkerRegistration.pdb
+C:\Users\PK\WinForms\WinForms-Homework\WorkerRegistration\WorkerRegistration\obj\Release\net8.0-windows\WorkerRegistration.WorkerView.resources
+C:\Users\PK\WinForms\WinForms-Homework\WorkerRegistration\WorkerRegistration\obj\Release\net8.0-windows\WorkerRegistration.csproj.GenerateResource.cache
+C:\Users\PK\WinForms\WinForms-Homework\WorkerRegistration\WorkerRegistration\obj\Release\net8.0-windows\WorkerRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PK\WinForms\WinForms-Homework\WorkerRegistration\WorkerRegistration\obj\Release\net8.0-windows\WorkerRegistration.AssemblyInfoInputs.cache
+C:\Users\PK\WinForms\WinForms-Homework\WorkerRegistration\WorkerRegistration\obj\Release\net8.0-windows\WorkerRegistration.AssemblyInfo.cs
+C:\Users\PK\WinForms\WinForms-Homework\WorkerRegistration\WorkerRegistration\obj\Release\net8.0-windows\WorkerRegistration.csproj.CoreCompileInputs.cache
+C:\Users\PK\WinForms\WinForms-Homework\WorkerRegistration\WorkerRegistration\obj\Release\net8.0-windows\WorkerRegistration.sourcelink.json
+C:\Users\PK\WinForms\WinForms-Homework\WorkerRegistration\WorkerRegistration\obj\Release\net8.0-windows\WorkerRegistration.dll
+C:\Users\PK\WinForms\WinForms-Homework\WorkerRegistration\WorkerRegistration\obj\Release\net8.0-windows\refint\WorkerRegistration.dll
+C:\Users\PK\WinForms\WinForms-Homework\WorkerRegistration\WorkerRegistration\obj\Release\net8.0-windows\WorkerRegistration.pdb
+C:\Users\PK\WinForms\WinForms-Homework\WorkerRegistration\WorkerRegistration\obj\Release\net8.0-windows\WorkerRegistration.genruntimeconfig.cache
+C:\Users\PK\WinForms\WinForms-Homework\WorkerRegistration\WorkerRegistration\obj\Release\net8.0-windows\ref\WorkerRegistration.dll

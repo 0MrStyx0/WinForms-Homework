@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWorker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Worker>
+    <Name>Nazim</Name>
+    <Surname>Dovlatov</Surname>
+    <Position>Backend Developer</Position>
+    <Salary>2500</Salary>
+    <City>Baku</City>
+    <Street>Narimanov</Street>
+    <House>898</House>
+  </Worker>
+  <Worker>
+    <Name>David</Name>
+    <Surname>Sladkov</Surname>
+    <Position>Frontend Developer</Position>
+    <Salary>2300</Salary>
+    <City>Boston</City>
+    <Street>TeaBox</Street>
+    <House>8-9C</House>
+  </Worker>
+</ArrayOfWorker>

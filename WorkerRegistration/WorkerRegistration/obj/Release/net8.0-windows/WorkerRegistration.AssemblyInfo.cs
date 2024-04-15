@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("RefuelingProgram")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("WorkerRegistration")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdcfef15bbe2c09f515657766327534093b99596")]
-[assembly: System.Reflection.AssemblyProductAttribute("RefuelingProgram")]
-[assembly: System.Reflection.AssemblyTitleAttribute("RefuelingProgram")]
+[assembly: System.Reflection.AssemblyProductAttribute("WorkerRegistration")]
+[assembly: System.Reflection.AssemblyTitleAttribute("WorkerRegistration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
